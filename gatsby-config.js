@@ -9,8 +9,8 @@ module.exports = {
     description: '',
     navLinks: [
       {
-        name: 'About',
-        url: 'https://www.linkedin.com/in/pei-zhao-42850014/',
+        name: 'WaveNParticle',
+        url: 'https://wavenparticle.com/',
       },
     ],
   },
