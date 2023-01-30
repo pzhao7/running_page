@@ -1015,7 +1015,11 @@
 
 "@babel/runtime@7.12.1":
   version "7.12.1"
+<<<<<<< HEAD
   resolved "https://registry.npmmirror.com/@babel/runtime/-/runtime-7.12.1.tgz"
+=======
+  resolved "https://registry.npmmirror.com/@babel/runtime/-/runtime-7.12.1.tgz#b4116a6b6711d010b2dad3b7b6e43bf1b9954740"
+>>>>>>> 71bad7c (add grid)
   integrity sha512-J5AIf3vPj3UwXaAzb5j1xM4WAQDX3EMgemF8rjCP3SoW09LfRKAXQKt6CoVYl230P6iWdRcBbnLDDdnqWxZSCA==
   dependencies:
     regenerator-runtime "^0.13.4"
@@ -2465,6 +2469,7 @@
     "@typescript-eslint/types" "4.33.0"
     eslint-visitor-keys "^2.0.0"
 
+<<<<<<< HEAD
 "@typescript-eslint/visitor-keys@5.59.2":
   version "5.59.2"
   resolved "https://registry.npmjs.org/@typescript-eslint/visitor-keys/-/visitor-keys-5.59.2.tgz"
@@ -2476,6 +2481,11 @@
 "@vercel/analytics@^0.1.6":
   version "0.1.8"
   resolved "https://registry.npmmirror.com/@vercel/analytics/-/analytics-0.1.8.tgz"
+=======
+"@vercel/analytics@^0.1.6":
+  version "0.1.8"
+  resolved "https://registry.npmmirror.com/@vercel/analytics/-/analytics-0.1.8.tgz#71f1f8c7bb98ac0c5c47eb3fb8ccbe8141b9fe47"
+>>>>>>> 71bad7c (add grid)
   integrity sha512-PQrOI8BJ9qUiVJuQfnKiJd15eDjDJH9TBKsNeMrtelT4NAk7d9mBVz1CoZkvoFnHQ0OW7Xnqmr1F2nScfAnznQ==
 
 "@vercel/webpack-asset-relocator-loader@^1.7.0":
@@ -5757,6 +5767,7 @@ gatsby-plugin-utils@^3.18.0:
     mini-svg-data-uri "^1.4.4"
     svgo "^2.8.0"
 
+<<<<<<< HEAD
 gatsby-plugin-utils@^3.19.0:
   version "3.19.0"
   resolved "https://registry.npmjs.org/gatsby-plugin-utils/-/gatsby-plugin-utils-3.19.0.tgz"
@@ -5775,15 +5786,27 @@ gatsby-plugin-utils@^3.19.0:
 gatsby-plugin-vercel@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmmirror.com/gatsby-plugin-vercel/-/gatsby-plugin-vercel-1.0.4.tgz"
+=======
+gatsby-plugin-vercel@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.npmmirror.com/gatsby-plugin-vercel/-/gatsby-plugin-vercel-1.0.4.tgz#bd46504f8f0a9acb0990c5035830b01525316dad"
+>>>>>>> 71bad7c (add grid)
   integrity sha512-sqDAeBGOj68/FhgPh556n6TM2oCeD/dKafhaXKS1KQHtx+ro51CZ1FpqMcYDtPqm9MUnT43HkQnIGw2z6CRyPQ==
   dependencies:
     "@babel/runtime" "7.12.1"
     web-vitals "0.2.4"
 
+<<<<<<< HEAD
 gatsby-react-router-scroll@^5.25.0:
   version "5.25.0"
   resolved "https://registry.npmjs.org/gatsby-react-router-scroll/-/gatsby-react-router-scroll-5.25.0.tgz"
   integrity sha512-SFSdezIa5lahCE8ieCLrtLA5tztemGco/rN8si9rI9KHu1h1jPvDhsNqs2g+Z50JrUb1RPfsmxJTmLa5i6MIgQ==
+=======
+gatsby-react-router-scroll@^5.24.0:
+  version "5.24.0"
+  resolved "https://registry.npmmirror.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-5.24.0.tgz#d37579dba12435f56a98fede831851c3224c60b4"
+  integrity sha512-2wQnwyszef06fGxQOsz70ReykF9w9FgIUjPpThn3OBgJarRibNsHljbNdLOETczYSY8LEebKFB3ewQ+erd7DCw==
+>>>>>>> 71bad7c (add grid)
   dependencies:
     "@babel/runtime" "^7.15.4"
     prop-types "^15.8.1"
@@ -10726,7 +10749,11 @@ weak-lru-cache@^1.2.2:
 
 web-vitals@0.2.4:
   version "0.2.4"
+<<<<<<< HEAD
   resolved "https://registry.npmmirror.com/web-vitals/-/web-vitals-0.2.4.tgz"
+=======
+  resolved "https://registry.npmmirror.com/web-vitals/-/web-vitals-0.2.4.tgz#ec3df43c834a207fd7cdefd732b2987896e08511"
+>>>>>>> 71bad7c (add grid)
   integrity sha512-6BjspCO9VriYy12z356nL6JBS0GYeEcA457YyRzD+dD6XYCQ75NKhcOHUMHentOE7OcVCIXXDvOm0jKFfQG2Gg==
 
 webidl-conversions@^3.0.0:
