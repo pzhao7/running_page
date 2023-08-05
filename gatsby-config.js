@@ -9,6 +9,10 @@ module.exports = {
     description: '',
     navLinks: [
       {
+        name: 'Generative AI Quest',
+        url: 'https://bearbearyu1223.github.io/chatbot/2023/07/31/food-qna-on-server-llm.html',
+      },
+      {
         name: 'WaveNParticle',
         url: 'https://wavenparticle.com/',
       },
