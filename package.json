@@ -1,8 +1,8 @@
 {
-  "name": "yihong.run",
-  "description": "Yi hong",
+  "name": "mulanandcrikee",
+  "description": "Personal running homepage — Strava data, Gatsby, Vercel",
   "version": "1.0.0",
-  "author": "Yi Hong <zouzou0208@gmail.com>",
+  "author": "Pei Zhao",
   "dependencies": {
     "@mapbox/mapbox-gl-language": "^1.0.0",
     "@mapbox/polyline": "^1.1.1",
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yihong0618/running_page"
+    "url": "https://github.com/pzhao7/running_page"
   },
   "devDependencies": {
     "@types/react-helmet": "^6.1.6",
