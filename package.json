@@ -52,7 +52,7 @@
   "engineStrict": true,
   "browserslist": "defaults, not ie 11",
   "engines": {
-    "node": ">=14.15.0"
+    "node": "22.x"
   },
   "repository": {
     "type": "git",
@@ -74,7 +74,7 @@
     "typescript": "^5.0.4"
   },
   "volta": {
-    "node": "18.16.0",
+    "node": "18.20.8",
     "yarn": "1.22.19"
   }
 }
